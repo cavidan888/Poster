@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\Linq Homework\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+C:\Users\user\Desktop\Linq Homework\HomeWork\HomeWork\bin\Debug\HomeWork.exe
+C:\Users\user\Desktop\Linq Homework\HomeWork\HomeWork\bin\Debug\HomeWork.pdb
+C:\Users\user\Desktop\Linq Homework\HomeWork\HomeWork\obj\Debug\HomeWork.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Linq Homework\HomeWork\HomeWork\obj\Debug\HomeWork.Main.resources
+C:\Users\user\Desktop\Linq Homework\HomeWork\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+C:\Users\user\Desktop\Linq Homework\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Linq Homework\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Linq Homework\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+C:\Users\user\Desktop\Linq Homework\HomeWork\HomeWork\obj\Debug\HomeWork.pdb
+C:\Users\user\Desktop\Linq Homework\HomeWork\HomeWork\obj\Debug\HomeWork.View.AuthorWindow.resources
+C:\Users\user\Desktop\Linq Homework\HomeWork\HomeWork\obj\Debug\HomeWork.View.CategoryWindow.resources
+C:\Users\user\Desktop\Linq Homework\HomeWork\HomeWork\obj\Debug\HomeWork.View.PostWindow.resources
